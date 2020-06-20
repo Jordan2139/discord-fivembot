@@ -1,6 +1,8 @@
 # statusbot
 Fivem Status Bot
 
+Jak wygląda: https://i.imgur.com/Gyoh1DM.png
+
 Stwórz config.json
 I dodaj:
 
@@ -17,6 +19,7 @@ node .
 
 Wypakuj node_modules.rar
 i dodaj do folderu z statusem
+
 
 
 Konfiguracja
