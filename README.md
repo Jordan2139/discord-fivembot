@@ -15,7 +15,8 @@ I dodaj:
 node .
 
 
-
+Wypakuj node_modules.rar
+i dodaj do folderu z statusem
 
 
 Konfiguracja
@@ -36,10 +37,14 @@ if (message.channel.id === 'kanal id') id kanału z statusem -- linijka: 78 w in
 Aby odpalić przerwę techniczną wpisz: Twój prefix np. !przerwa
 Wymagana ranga na serwerze dc @developer można to zmienić!
 
-if(!message.member.roles.some(r=>["developer"].includes(r.name)) ) -- linijka 64 ["developer"] w braketach zmieniasz rangę bez oznaczenia @ (raczej nie zadziala gdy masz rangę na dc z emotką XD)
+if(!message.member.roles.some(r=>["developer"].includes(r.name)) ) -- linijka 64 ["developer"] w braketach zmieniasz rangę bez oznaczenia @ (raczej nie zadziala gdy masz rangę na dc z emotką)
 
 .setThumbnail("https://upload.wikimedia.org/wikipedia/commons/4/45/Ok-logo.jpg") -- możesz to zmienić to jest logo gdy serwer jest on
 
 .setThumbnail("https://wingmantech.net/wp-content/uploads/2013/09/img1.jpg") -- możesz to zmienić to jest logo gdy serwer ma przerwę techniczną
 
 .setThumbnail("https://upload.wikimedia.org/wikipedia/commons/8/8d/No-Symbol.svg") -- możesz to zmienić to jest logo gdy serwer jest off
+
+Gotowe :)
+
+https://szymczakovv.pl/
